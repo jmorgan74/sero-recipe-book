@@ -1,0 +1,6 @@
+{
+  "experimentalStudio": true,
+  "screenshotOnRunFailure": false,
+  "trashAssetsBeforeRuns": true,
+  "video": false
+}
